@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anmol Sharma</h1>
+<h1 align="center">Hi 👋, I'm Anmol</h1>
 
 <h3 align="center">
 B.Tech CSE Graduate | Full Stack Developer Learner | MERN Stack Enthusiast
