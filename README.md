@@ -9,7 +9,7 @@ B.Tech CSE Graduate | Full Stack Developer Learner | MERN Stack Enthusiast
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=anmolsharma079745&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -54,9 +54,9 @@ B.Tech CSE Graduate | Full Stack Developer Learner | MERN Stack Enthusiast
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anmolsharma079745&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolsharma079745&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -66,7 +66,7 @@ B.Tech CSE Graduate | Full Stack Developer Learner | MERN Stack Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolsharma079745&theme=tokyonight" />
 
 </p>
 
